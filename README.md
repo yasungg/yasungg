@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=tromxx&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=yasungg&show_icons=true">
 
 <div align=center>
    <h3>📚 Tech Stack 📚</h3>
@@ -29,16 +29,16 @@
    <a href="">
       <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
    </a>
-   <a href="mailto:husik927@gmail.com">
+   <a href="mailto:dragxn1026@gmail.com">
       <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
    </a>
 
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tromxx&exclude_repo=tromxx.github.io&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasungg&exclude_repo=tromxx.github.io&layout=compact&theme=tokyonight"/>
    <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=tromxx&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=yasungg&show_icons=true">
 </div>
 
 <!--
