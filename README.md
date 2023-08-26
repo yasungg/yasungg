@@ -1,4 +1,5 @@
 [header](https://capsule-render.vercel.app/api?type=waving&color=9bd7fc&height=300&section=header&text=dragxn1026%20GitHub&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)
+
 <img src="https://github-readme-stats.vercel.app/api?username=yasungg&show_icons=true">
 
 <div align=center>
@@ -29,8 +30,8 @@
    <br/>
    <br/>
    <p>🎨 SNS & Portfolio 🎨</p>
-   <a href="">
-      <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+   <a href="https://velog.io/@yasungg">
+      <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" />
    </a>
    <a href="mailto:dragxn1026@gmail.com">
       <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
