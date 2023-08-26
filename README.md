@@ -2,6 +2,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9bd7fc&width="768"&height=300&section=header&text=dragxn1026%20GitHub&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)
 
 <div align=center>
+      <h3>🔖 CONTACT ME 🔖</h3>
+   <a href="mailto:dragxn1026@gmail.com">
+      <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+   </a>
+   <a href="https://velog.io/@yasungg">
+      <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" />
+   </a>
+   <a href="https://yasungg.notion.site/yasungg-1d5f3cd929274aef9e1dcff3d8815264?pvs=4">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+   </a>
+   <br/>
    <h3>🧑‍🦰 ABOUT ME 🧑‍🦰</h3>
    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=yasungg&show_icons=true">
@@ -12,18 +23,7 @@
    <br/>
    <p> 대전 중앙고등학교 졸업 (2010.03 ~ 2013.02)</p>
    <p> 충북대학교 정치외교학과 졸업 (2015.03 ~ 2022.02)</p>
-   <br/>
-   <br/>
-   <h3>🔖 CONTACT ME 🔖</h3>
-   <a href="mailto:dragxn1026@gmail.com">
-      <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-   </a>
-   <a href="https://velog.io/@yasungg">
-      <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" />
-   </a>
-   <a href="https://yasungg.notion.site/yasungg-1d5f3cd929274aef9e1dcff3d8815264?pvs=4">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-   </a>
+
    <br/>
    <br/>
    <h3>📚 Stack 📚</h3>
