@@ -3,6 +3,13 @@
 
 <div align=center>
    <h3>🧑‍🦰 ABOUT ME 🧑‍🦰</h3>
+   <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=yasungg&show_icons=true">
+      <br/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasungg&exclude_repo=tromxx.github.io&layout=compact&theme=tokyonight"/>
+   </div>
+   <br/>
    <p> 대전 중앙고등학교 졸업 (2010.03 ~ 2013.02)</p>
    <p> 충북대학교 정치외교학과 졸업 (2015.03 ~ 2022.02)</p>
    <br/>
@@ -51,11 +58,6 @@
 
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasungg&exclude_repo=tromxx.github.io&layout=compact&theme=tokyonight"/>
-   <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=yasungg&show_icons=true">
-</div>
 
 <!--
 **yasungg/yasungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
